@@ -6,7 +6,7 @@ int main()
     cout<<"Enter a number\n";
     cin>>num;
     int rem;
-    int i=0;
+    int i=0;//reverse a number
     while(num>0)
     {
         rem=num%10;
